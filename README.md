@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1>👋🏼 Hey, I'm Garrett <span style="font-size: 0.6em; font-weight: normal;">he/him</span></h1>
+<h1>👋🏼 Hey, I'm Garrett <span style="font-size: 10px; font-weight: normal;">he/him</span></h1>
 
 ---
 
