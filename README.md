@@ -1,5 +1,6 @@
 <!-- Header -->
-<h1 align="center">👋🏼 Garrett <span>⟨he/him⟩</span></h1>
+  <span style="font-size: 2.5rem;">👋🏼 Garrett</span>
+  <span style="font-size: 1rem; margin-left: 10px;">⟨he/him⟩</span>
 
 ---
 
