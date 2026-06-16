@@ -21,7 +21,7 @@
 
 ### 🎧 Spotify — Now Playing
 
-![Spotify Now Playing](https://spotify-github-profile.vercel.app/api/view?uid=gmlane85)
+![Spotify Now Playing](https://spotify-github-profile.vercel.app/api/view?uid=gmlane85&theme=compact)
 
 ---
 
