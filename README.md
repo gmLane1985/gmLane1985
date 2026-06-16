@@ -1,6 +1,6 @@
 <!-- Header -->
-<h1>👋🏼 Hey, I'm Garrett</h1>
-<p><strong>he/him</strong>
+<h1>👋🏼 Hey, I'm Garrett</h1>(<strong>he/him</strong>)
+
 ---
 
 <p>🤝🏼 New on the scene, always down to team up, build, and grow with others.</p>
