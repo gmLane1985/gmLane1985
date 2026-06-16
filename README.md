@@ -1,5 +1,14 @@
 <!-- Header -->
-<h1>👋🏼 Hey, I'm Garrett <span>ʜᴇ/ʜɪᴍ</span></h1>
+<table align="center">
+  <tr>
+    <td>
+      <h1>👋🏼 Garrett</h1>
+    </td>
+    <td style="vertical-align: middle; padding-left: 10px;">
+      <strong><span style="font-size: 18px;">he/him</span></strong>
+    </td>
+  </tr>
+</table>
 
 ---
 
