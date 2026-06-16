@@ -1,33 +1,7 @@
-<style>
-  .header-row {
-    display: inline-flex;
-    align-items: center;
-    gap: 12px;
-  }
-
-  .name-title {
-    font-size: 2.8rem;
-    font-weight: 600;
-  }
-
-  .pronouns {
-    font-size: 1.1rem;
-    font-weight: 400;
-    opacity: 0.85;
-  }
-
-  .stack-icons img,
-  .social-row img,
-  .learning-icons img {
-    margin-right: 8px;
-    margin-bottom: 6px;
-  }
-</style>
-
-<div class="header-row">
-  <span class="name-title">👋🏼 Garrett</span>
-  <span class="pronouns">⟨he/him⟩</span>
-</div>
+<h2 style="display: flex; align-items: baseline; gap: 10px; margin: 0; padding: 0;">
+  <span style="font-size: 2rem; font-weight: 600;">👋🏼 Garrett</span>
+  <span style="font-size: 1.2rem; font-weight: 400; opacity: 0.85;">⟨he/him⟩</span>
+</h2>
 
 ---
 
