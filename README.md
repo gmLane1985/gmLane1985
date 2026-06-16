@@ -19,11 +19,6 @@
 
 ---
 
-### 🎧 Spotify — Now Playing
-
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=gmlane85)
-
----
 
 ### 🧰 My Stack
 - Coming soon!
