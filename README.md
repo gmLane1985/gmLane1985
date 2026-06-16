@@ -1,5 +1,5 @@
 <!-- Header -->
-<table align="center">
+<table>
   <tr>
     <td>
       <h1>👋🏼 Garrett</h1>
