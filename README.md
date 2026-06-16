@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1>👋🏼 Hey, I'm Garrett</h1>(<strong>he/him</strong>)
+<div><h1>👋🏼 Hey, I'm Garrett</h1>(<strong>he/him</strong>)</div>div>
 
 ---
 
