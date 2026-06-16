@@ -3,7 +3,7 @@
 <p><strong>he/him</strong>
 ---
 
-### <p align="center">🤝🏼 New on the scene, always down to team up, build, and grow with others.</p>
+<p>🤝🏼 New on the scene, always down to team up, build, and grow with others.</p>
 
 ---
 
