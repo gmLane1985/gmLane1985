@@ -3,7 +3,7 @@
 
 ---
 
-## 🔗 Connect With Me
+### 🔗 Connect With Me
 
 <a href="https://discord.com/users/408810804423688194">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
@@ -19,17 +19,14 @@
 
 ---
 
-## 🎧 Spotify — Now Playing
+### 🎧 Spotify — Now Playing
 
 ![Spotify Now Playing](https://spotify-github-profile.vercel.app/api/view?uid=gmlane85&cover_image=true&theme=novatorem)
 
 ---
 
-## 🧰 My Stack
-
- 
-
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+### 🧰 My Stack
+- Coming soon!
 
 <!-- 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -56,13 +53,13 @@
 -->
 ---
 
-## 📚 Currently Learning
+### 📚 Currently Learning
 
 <img src="https://img.shields.io/badge/Linear_Data_Structures-000000?style=for-the-badge&logo=databricks&logoColor=white" />
 
 ---
 
-## 📌 About Me
+### 📌 About Me
 - ♂️ ⟨he/him⟩
 - 🇺🇸 ➡️ 🇩🇪 American expat living in Germany  
 - 💻  Software Engineering & AI student (WBS Coding School)  
@@ -73,18 +70,18 @@
 
 ---
 
-## 📈 GitHub Stats
+### 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gmLane1985&show_icons=true&theme=default)
 
 ---
 
-## 🔥 GitHub Streaks
+### 🔥 GitHub Streaks
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=gmLane1985&theme=default)
 
 ---
 
-## 📊 Activity Graph
+### 📊 Activity Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gmLane1985&theme=github-light)
