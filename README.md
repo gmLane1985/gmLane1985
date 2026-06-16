@@ -1,16 +1,66 @@
-## Hi there 👋
+<!-- Header -->
+<h1 align="center">👋🏼 Hey, I'm Garrett</h1>
+<p align="center"><strong>he/him</strong>
 
-<!--
-**gmLane1985/gmLane1985** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🎧 Connect With Me
+
+<p align="center">
+  🤝🏼 New on the scene, always down to team up, build, and grow with others.
+
+  <!-- Discord -->
+  <a href="https://discord.com/users/408810804423688194" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+
+  <!-- Twitter -->
+  <a href="https://twitter.com/CodingExpat" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://instagram.com/codingexpat" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+</p>
+
+---
+
+## 🧠 About Me
+- 🚒 Former Firefighter / 🚑 EMT (2007-2025)
+- 💻 Currently learning **Software Engineering & AI** at **WBS Coding School – E‑SEAI‑9**  
+- 🏋️‍♂️ Calisthenics & home fitness  
+- 🎨 Tattoo design, geometric & Trash Polka concepts  
+- 🎵 Pop‑punk & ska enjoyer  
+- 🇺🇸 ➡️ 🇩🇪 American expat now living in Germany  
+
+---
+
+## 🧩 GitHub Stats & Activity
+
+### 🔥 Streak Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gmLane1985&theme=tokyonight&hide_border=true" />
+</p>
+
+### 📊 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmLane1985&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+### 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gmLane1985&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🚀 Thanks for stopping by!
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gmLane1985&color=blueviolet&style=flat-square" />
+</p>
