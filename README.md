@@ -1,8 +1,9 @@
 <!-- Header -->
 <div>
-  <table>
-    <tr>
-      <td style="border: none;">
+<div>
+  <table style="border-collapse: collapse; border: none;">
+    <tr style="border: none;">
+      <td style="border: none; padding: 0;">
         <h1>👋🏼 Garrett</h1>
       </td>
       <td style="border: none; padding-left: 10px; vertical-align: middle;">
@@ -11,6 +12,7 @@
     </tr>
   </table>
 </div>
+
 
 ---
 
