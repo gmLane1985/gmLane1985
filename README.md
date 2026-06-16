@@ -1,5 +1,5 @@
 <!-- Header -->
-  <span style="font-size: 5.5rem;"><strong>👋🏼 Garrett</strong></span>
+  #<span style="font-size: 5.5rem;"><strong>👋🏼 Garrett</strong></span>
   <span style="font-size: 1rem; margin-left: 10px;">⟨he/him⟩</span>
 
 ---
