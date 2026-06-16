@@ -1,17 +1,17 @@
 <!-- Header -->
-<h1 align="center">👋🏼 Hey, I'm Garrett</h1>
-<p align="center"><strong>he/him</strong>
+<h1>👋🏼 Hey, I'm Garrett</h1>
+<p><strong>he/him</strong>
 
 ---
 
 
-## <p align="center">🤝🏼 New on the scene, always down to team up, build, and grow with others.</p>
+# <p align="center">🤝🏼 New on the scene, always down to team up, build, and grow with others.</p>
 
 ---
 
-## 🎧 Connect With Me
+# 🎧 Connect With Me
 
-<p align="center">
+<p>
 
   <!-- Discord -->
   <a href="https://discord.com/users/408810804423688194" target="_blank">
