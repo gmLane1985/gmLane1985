@@ -5,11 +5,13 @@
 ---
 
 
+## <p align="center">🤝🏼 New on the scene, always down to team up, build, and grow with others.</p>
+
+---
 
 ## 🎧 Connect With Me
 
 <p align="center">
-  🤝🏼 New on the scene, always down to team up, build, and grow with others.
 
   <!-- Discord -->
   <a href="https://discord.com/users/408810804423688194" target="_blank">
