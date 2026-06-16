@@ -21,7 +21,7 @@
 
 ### 🎧 Spotify — Now Playing
 
-![Spotify Now Playing](https://spotify-github-profile.vercel.app/api/view?uid=gmlane85&theme=compact)
+![Spotify](https://lanyard.cnrad.dev/api/408810804423688194?theme=light&borderRadius=5px&hideDiscrim=true&idleMessage=Not%20listening)
 
 ---
 
