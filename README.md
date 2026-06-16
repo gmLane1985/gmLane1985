@@ -1,15 +1,13 @@
 <!-- Header -->
 <h1>👋🏼 Hey, I'm Garrett</h1>
 <p><strong>he/him</strong>
+---
+
+### <p align="center">🤝🏼 New on the scene, always down to team up, build, and grow with others.</p>
 
 ---
 
-
-# <p align="center">🤝🏼 New on the scene, always down to team up, build, and grow with others.</p>
-
----
-
-# 🎧 Connect With Me
+### 🎧 Connect With Me
 
 <p>
 
@@ -45,17 +43,17 @@
 ## 🧩 GitHub Stats & Activity
 
 ### 🔥 Streak Stats
-<p align="center">
+<p>
   <img src="https://streak-stats.demolab.com?user=gmLane1985&theme=tokyonight&hide_border=true" />
 </p>
 
 ### 📊 Most Used Languages
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmLane1985&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ### 📈 Activity Graph
-<p align="center">
+<p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gmLane1985&theme=tokyo-night&hide_border=true" />
 </p>
 
