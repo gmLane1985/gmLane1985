@@ -1,14 +1,16 @@
 <!-- Header -->
-<table>
-  <tr>
-    <td>
-      <h1>👋🏼 Garrett</h1>
-    </td>
-    <td style="vertical-align: middle; padding-left: 10px;">
-      <strong><span style="font-size: 18px;">he/him</span></strong>
-    </td>
-  </tr>
-</table>
+<div>
+  <table>
+    <tr>
+      <td style="border: none;">
+        <h1>👋🏼 Garrett</h1>
+      </td>
+      <td style="border: none; padding-left: 10px; vertical-align: middle;">
+        <strong>⟨he/him⟩</strong>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
