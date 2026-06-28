@@ -61,7 +61,8 @@
 - 🏋️‍♂️ Calisthenics beginner  
 - 🌱 Plant & garden enjoyer
 - 🎨 Tattoo lover, geometric, Trash Polka & concepts  
-- 🎵 Pop‑punk & ska enjoyer  
+- 🎵 Pop‑punk & ska enjoyer
+- ![Codewars Badge](ttps://www.codewars.com/users/gmLane1985/badges/large)
 
 ---
 
