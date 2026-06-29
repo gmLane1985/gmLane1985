@@ -16,10 +16,6 @@
 <a href="https://instagram.com/codingexpat">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<br>
-<br>
-![Codewars](https://www.codewars.com/users/gmLane1985/badges/large)
-<br>
 ---
 
 
@@ -83,3 +79,6 @@
 ### 📊 Activity Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gmLane1985&theme=github-light)
+
+---
+![Codewars](https://www.codewars.com/users/gmLane1985/badges/large)
