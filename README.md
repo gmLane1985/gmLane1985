@@ -16,7 +16,9 @@
 <a href="https://instagram.com/codingexpat">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-
+<br>
+<br>
+![Codewars Badge](https://www.codewars.com/users/gmLane1985/badges/large)
 ---
 
 
@@ -62,8 +64,6 @@
 - 🌱 Plant & garden enjoyer
 - 🎨 Tattoo lover, geometric, Trash Polka & concepts  
 - 🎵 Pop‑punk & ska enjoyer
-  <br>
- ![Codewars Badge](https://www.codewars.com/users/gmLane1985/badges/large)
 
 ---
 
