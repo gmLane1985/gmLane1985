@@ -54,7 +54,7 @@
 ---
 
 ### 📌 About Me
-- ![Pronouns](https://shields.io)
+- 👨🏽 ⟨he/him⟩
 - 🇺🇸 ➡️ 🇩🇪 American expat living in Germany  
 - 💻  Software Engineering & AI student (WBS Coding School)  
 - 🏋️‍♂️ Calisthenics beginner  
