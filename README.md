@@ -18,7 +18,8 @@
 </a>
 <br>
 <br>
-![Codewars Badge](https://www.codewars.com/users/gmLane1985/badges/large)
+![Codewars](https://www.codewars.com/users/gmLane1985/badges/large)
+<br>
 ---
 
 
